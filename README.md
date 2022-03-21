@@ -1,5 +1,6 @@
 ### Hi there 👋
-![pixil-frame-1](https://user-images.githubusercontent.com/66395458/159233124-6ced0663-2610-46c2-8c74-b2970088130d.png)
+
+![pixil-frame-2](https://user-images.githubusercontent.com/66395458/159233292-9447601d-f683-45a0-be2b-ab2a89ab2aed.png)
 
 
 
