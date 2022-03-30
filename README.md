@@ -1,24 +1,9 @@
-### Hi there 👋
+### Olá eu sou Alexandre Santos Adabo 😁
 
+![ texto](pixel-alexandre.png)
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-santos-adabo-394002112/) [![Blog](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18626717/alexandre-santos-adabo) [![Blog](https://img.shields.io/website?label=GrupoWeBee.com&style=for-the-badge&url=http://www.grupowebee.com/)](http://www.grupowebee.com/)
 
+![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreAdabo&show_icons=true&theme=synthwave)
 
-![pixil-frame-3](https://user-images.githubusercontent.com/66395458/159233446-78434066-8449-458b-b299-0ea28839f6f3.png)
-
-
-
-
-<!--
-**AlexandreAdabo/AlexandreAdabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreAdabo&layout=compact&theme=synthwave)](https://github.com/AlexandreAdabo/github-readme-stats)
